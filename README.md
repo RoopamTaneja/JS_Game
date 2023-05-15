@@ -2,4 +2,4 @@
 
 A little game made with pure HTML, CSS, JS.
 
-# Have Fun!
+## Have Fun!
